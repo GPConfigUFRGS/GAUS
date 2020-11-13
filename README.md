@@ -5,6 +5,9 @@ O plugin, executável no software QGIS, realiza o cálculo das medidas configura
 
 Quando finalizado seu processo de registro junto à UFRGS, pretende-se disponibilizá-lo neste repositório.
 
+Como referenciá-lo:
+DALCIN, G.; KRAFTA, R. GAUS - Graph Analysis of Urban Systems. Disponível em: https://github.com/GPConfigUFRGS/GAUS. Acesso em: 13 nov. 2020.
+
 Contato: guilherme.dalcin@ufrgs.br
 
 # Referências:

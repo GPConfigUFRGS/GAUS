@@ -3,6 +3,8 @@ Plugin de análise configuracional urbana desenvolvido pelo Grupo de Pesquisa em
 
 O plugin, executável no software QGIS, realiza o cálculo das medidas configuracionais propostas por Krafta (1994, 1996, 1999) e foi implementado computacionalmente pelo mestrando Guilherme Dalcin em 2020.
 
+Contato: guilherme.dalcin@ufrgs.br
+
 # Referências:
 
 KRAFTA, R. Modelling intraurban configurational development. Environment and Planning B: Planning and Design, v. 21, n. 1, p. 67–82, 1994. Disponível em: https://doi.org/10.1068/b210067. Acesso em: 21 jul. 2020.
